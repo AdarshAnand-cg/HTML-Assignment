@@ -4,7 +4,7 @@
 
 # **Adarsh Anand**
 
-### 🚀 HTML • CSS • JavaScript • Web Development
+### 🚀 HTML • CSS • Web Development
 
 **A collection of advanced HTML projects, experiments, animations, layouts, and interactive web pages.**
 
