@@ -1,4 +1,4 @@
-# 🌐 HTML — Advanced Web Development Repository
+# 🌐 HTML Assignment and Practice Repository
 
 <div align="center">
 
