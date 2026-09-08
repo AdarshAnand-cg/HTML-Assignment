@@ -1,4 +1,4 @@
-# 🌐 HTML Assignment and Practice Repository
+# 🌐HTML Assignment and Practice Repository
 
 <div align="center">
 
